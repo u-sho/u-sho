@@ -23,7 +23,7 @@ I'm a frontend web developer, and a student of the Univetsity of Electro-Communi
 
 I'm waiting for Vue3. I like Vue/Nuxt very much.
 
-<sub><sup>NOTE: The frameworks in the bracket are touched only few.</sup></sub>
+<sub><sup>NOTE: The frameworks in brackets are touched only few.</sup></sub>
 - TypeScript
 - Vue.js
     - Nuxt.js
