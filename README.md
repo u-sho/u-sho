@@ -17,49 +17,35 @@ Here are some ideas to get you started:
 
 I'm a frontend web developer, and a student of the Univetsity of Electro-Communications.
 
-### :heart_eyes_cat: My favorite Web frameworks
+### frontend
 
-#### frontend
+I like these.
 
-I'm waiting for Vue3. I like Vue/Nuxt very much.
-
-<sub><sup>NOTE: The frameworks in brackets are touched only few.</sup></sub>
+<sub><sup>NOTE: The frameworks in {brackets} are touched only few.</sup></sub>
 - TypeScript
-- Vue.js
-    - Nuxt.js
-    - Vuex
-    - html template, Object like scripts, scoped (S)CSS
+- Vue / Nuxt
+    - :heart_eyes_cat: scoped CSS in ver3.0
     - mavonEditor
         - :star: my first OSS contribute (only document fix)
-- {React}
-    - Next.js
-        - API routes
-    - Redux
-    - hooks
+- React / Next
+    - :heart_eyes_cat: hooks
 - {Svelete}
     - {Sapper}
 - jQuery
 - {Ruby on Rails}
-- Ant Design
 
-#### middle and others
+### middle and others
 
 - firebase
     - auth
-    - store
-    - storage
 - SkyWay
-    - Media Communication
-    - Data Communication
-    - {Screen Share}
-    - {multi-party conversation}
-    - {recording}
 
-#### backend
+### backend
 
 - Laravel
 - {Ruby on Rails}
 
+<!--
 ### 🎮 Online games
 
 sorted by play time
@@ -77,12 +63,13 @@ sorted by play time
     3. slither.io
     4. Dominion online
     5. [Marcov Algorithm Online](https://mao.snuke.org/)
+-->
 
 ### 🔭 My job
 
-I have a part-time job on [REDIMPULZ inc.](https://redimpulz.com/)
+I have a part-time job at [REDIMPULZ inc.](https://redimpulz.com/)
 
-### 🌱 My study (plan)
+### 🌱 My study
 
 I'm an [UEC](https://www.uec.ac.jp/) student.
 
@@ -90,5 +77,4 @@ I will study about Quantum Go ([Japanese slide](https://refined-github-html-prev
 
 ### 📫 How to reach me
 
-Twitter: [@u_sho_KyoPro](https://twitter.com/u_sho_KyoPro)  
-E-Mail: shouhei.uechi@gmail.com  
+Twitter: [@u_sho_KyoPro](https://twitter.com/u_sho_KyoPro)
