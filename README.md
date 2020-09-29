@@ -24,26 +24,26 @@ I like these.
 <sub><sup>NOTE: The frameworks in {brackets} are touched only few.</sup></sub>
 - TypeScript
 - Vue / Nuxt
-    - :heart_eyes_cat: scoped CSS in ver3.0
+    - :heart: scoped CSS in ver3.0
     - mavonEditor
         - :star: my first OSS contribute (only document fix)
 - React / Next
-    - :heart_eyes_cat: hooks
+    - :heart: API route
 - {Svelete}
     - {Sapper}
 - jQuery
-- {Ruby on Rails}
-
-### middle and others
-
-- firebase
-    - auth
-- SkyWay
 
 ### backend
 
 - Laravel
 - {Ruby on Rails}
+
+### others
+
+- firebase
+    - auth
+- SkyWay
+
 
 <!--
 ### 🎮 Online games
