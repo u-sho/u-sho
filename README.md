@@ -2,6 +2,8 @@
 ![welcome](https://place-hold.it/200x100/111/17d339/fff.png&text=Welcome!&bold&italic&fontsize=20)
 -->
 
+## Hello!  I'm u-sho :cat:
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=u-sho&theme=dracula)
 
 <!--
@@ -21,28 +23,25 @@ Here are some ideas to get you started:
 
 I'm a frontend web developer, and a student of the Univetsity of Electro-Communications.
 
-### frontend
+### favorite works
 
-I like these.
+#### frontend
 
-<sub><sup>NOTE: The frameworks in {brackets} are touched only few.</sup></sub>
 - TypeScript
 - Vue / Nuxt
     - :heart: scoped CSS in ver3.0
-    - mavonEditor
-        - :star: my first OSS contribute (only document fix)
+    - mavonEditor (:star: my first OSS contribute (only document fix)
 - React / Next
     - :heart: API route
-- {Svelete}
-    - {Sapper}
+- Svelete
 - jQuery
 
-### backend
+#### backend
 
 - Laravel
-- {Ruby on Rails}
+- Ruby on Rails
 
-### others
+#### others
 
 - firebase
     - auth
@@ -61,12 +60,6 @@ sorted by play time
     1. AtCoder
     2. ICPC (International College Programing Contest)
     3. Codeforces
-3. Others (includes mobile app)
-    1. Clash of Clans
-    2. 将棋ウォーズ
-    3. slither.io
-    4. Dominion online
-    5. [Marcov Algorithm Online](https://mao.snuke.org/)
 -->
 
 ### 🔭 My job
@@ -79,6 +72,6 @@ I'm an [UEC](https://www.uec.ac.jp/) student.
 
 I will study about Quantum Go ([Japanese slide](https://refined-github-html-preview.kidonng.workers.dev/u-sho/sotsuken/raw/master/quantum-go-rule.html)).
 
-### 📫 How to reach me
+### 📫 Contact
 
 Twitter: [@u_sho_KyoPro](https://twitter.com/u_sho_KyoPro)
