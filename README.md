@@ -1,4 +1,8 @@
+<!--
 ![welcome](https://place-hold.it/200x100/111/17d339/fff.png&text=Welcome!&bold&italic&fontsize=20)
+-->
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=u-sho&theme=dracula)
 
 <!--
 **u-sho/u-sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
