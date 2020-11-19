@@ -6,22 +6,8 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=u-sho&theme=dracula)
 
-<!--
-**u-sho/u-sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a frontend web developer, and a student of the Univetsity of Electro-Communications.
+I'm a frontend web developer and a student of [the Univetsity of Electro-Communications](https://www.uec.ac.jp/).
+I have a part-time job at [REDIMPULZ inc.](https://redimpulz.com/)
 
 ### :star: Favorite Lang or FW :heart:
 
@@ -61,17 +47,3 @@ sorted by play time
     2. ICPC (International College Programing Contest)
     3. Codeforces
 -->
-
-### 🔭 My job
-
-I have a part-time job at [REDIMPULZ inc.](https://redimpulz.com/)
-
-### 🌱 My study
-
-I'm an [UEC](https://www.uec.ac.jp/) student.
-
-I will study about Quantum Go ([Japanese slide](https://refined-github-html-preview.kidonng.workers.dev/u-sho/sotsuken/raw/master/quantum-go-rule.html)).
-
-### 📫 Contact
-
-Twitter: [@u_sho_KyoPro](https://twitter.com/u_sho_KyoPro)
