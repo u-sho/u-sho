@@ -23,28 +23,28 @@ Here are some ideas to get you started:
 
 I'm a frontend web developer, and a student of the Univetsity of Electro-Communications.
 
-### favorite works
+### :star: Favorite Lang or FW :heart:
 
-#### frontend
+#### Frontend
 
 - TypeScript
 - Vue / Nuxt
-    - :heart: scoped CSS in ver3.0
-    - mavonEditor (:star: my first OSS contribute (only document fix)
+    - :heart: v3.x scoped CSS
+    - mavonEditor (my first contribution to OSS (only document fix)
 - React / Next
     - :heart: API route
 - Svelete
 - jQuery
 
-#### backend
+#### Backend
 
 - Laravel
 - Ruby on Rails
 
-#### others
+#### Others
 
 - firebase
-    - auth
+    - :heart: auth
 - SkyWay
 
 
