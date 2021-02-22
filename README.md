@@ -6,7 +6,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=u-sho&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-sho&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a student of [the Univetsity of Electro-Communications](https://www.uec.ac.jp/) and have a part-time job at [REDIMPULZ inc.](https://redimpulz.com/)
+I study at [Ogawa Lab.](http://www.quest.lab.uec.ac.jp/index.html) in [the Univetsity of Electro-Communications](https://www.uec.ac.jp/) as a bachelar student and have a part-time job at [REDIMPULZ inc.](https://redimpulz.com/)
 
 ### Favorite Web FWs :star:
 
