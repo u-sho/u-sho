@@ -30,4 +30,4 @@ I study at [Ogawa Lab.](http://www.quest.lab.uec.ac.jp/index.html) in [the Unive
 - TypeScript
     - tuple type
 - 日本語
-- 宮古語佐良浜方言
+- 宮古口佐良浜方言
