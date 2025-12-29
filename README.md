@@ -4,6 +4,7 @@
 
 ## Hello!  I'm u-sho :cat:
 
-[![u-sho's ReadMe Card](https://github-readme-stats-delta-dun-72.vercel.app/api?username=u-sho&custom_title=u-sho%27s%20GitHub%20Stats&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <!--[![u-sho's wakatime stats](https://github-readme-stats-delta-dun-72.vercel.app/api/wakatime?username=u_sho)](https://wakatime.com/@u_sho)--> [![Top Langs](https://github-readme-stats-delta-dun-72.vercel.app/api/top-langs/?username=u-sho&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ふろんとえんどえんじにぁ🐾 ばっくえんどもやります  
+_I'm a frontend engineer. &nbsp; I also handle backend developments_
 
-I'm working at [VALGO inc.](https://valgo.co.jp/)
+[![u-sho's ReadMe Card](https://github-readme-stats-delta-dun-72.vercel.app/api?username=u-sho&custom_title=u-sho%27s%20GitHub%20Stats&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <!--[![u-sho's wakatime stats](https://github-readme-stats-delta-dun-72.vercel.app/api/wakatime?username=u_sho)](https://wakatime.com/@u_sho)--> [![Top Langs](https://github-readme-stats-delta-dun-72.vercel.app/api/top-langs/?username=u-sho&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
